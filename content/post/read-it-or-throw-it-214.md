@@ -1,0 +1,86 @@
+---
+title: "Read it or Throw it #214"
+date: 2019-10-11T13:00:00+03:00
+---
+
+1. [Relearning to Type][relearning-to-type]
+<br/>
+My new post describing my journey to relearn to type.
+I won't elaborate and just hope it will make you curious enough to go and read the article...
+
+2. [SVM - Spacemesh Virtual Machine][svm-medium]
+<br/>
+Another post of mine, but this time, a work official one.
+<br/>
+This post describes the first milestone of _SVM_ (Spacemesh Virtual Machine).
+<br/>
+I've worked on the _SVM_ project (first milestone) for the past 3 months.
+<br/><br/>
+Here's a link to the GitHub repository:<br/>
+https://github.com/spacemeshos/svm
+<br/><br/>
+If you know Rust or if you're into Compilers and looking for a very challenging job
+and super fun!  please email me at: yaron.wittenstein@gmail.com
+
+3. [Big Benefits when Your Product is Bootstrapped][product-bootstrap]
+<br/>
+Oren Eini, one the greatest developers on earth tells his remarkable story of bootstrapping his company creating RavenDB.
+A must-read article for entrepreneurs!
+
+4. [Kubernetes and the Erlang VM: orchestration on the large and the small][kubernetes-and-the-erlang-vm]
+<br/>
+A great article by José Valim, the creator of Elixir about the similarities between KS8 and the Erlang VM.
+While KS8 orchestrates nodes, the Erlang VM does that same in the instance level.
+José also writes about how KS8 and the Erlang VM can complement each other in cases like Service Discovery.
+
+5. [Tuple: A remote pair programming tool for discerning developers][tuple]
+<br/>
+A new remote screen sharing product designed in particular for developers.
+<br/>
+The video on the site looks really cool.
+<br/>
+The tool is only for Mac users.
+
+6. [How Many Words Does the Average Person Know?][how-many-words]:
+<br/>
+In the last couple of moths I've worked almost daily on my English vocabulary.
+<br/>
+English is a gigantic language and I was asking myself how many words a fluent English speaker really knows.
+If you're curious too, then read the article
+
+7. [gitmoji][gitmoji]
+<br/>
+A cheat sheet to GitHub emojis
+
+8. [emacs or vim][emacs-or-vim]
+<br/>
+That's funny. I will have my take about the endless war of emacs vs vim on a future post.
+
+9. [Recommendation Talk: Rust, WebAssembly, and the future of Serverless][future-of-serverless]
+<br/>
+A comprehensive summary by Steve Klabnik about Rust, the evolution of WebAssembly starting from asm.js
+to this day and the next generation of Serverless executing WebAssembly programs.
+
+10. [Book Recommendation: Ultralearning][ultralearning]
+<br/>
+A great book about learning innovative techniques by Scott H Young.
+This book will give you some food for thought. I knew it made me think and reflect about the way I learn things.
+Highly recommended book!
+
+<br/>
+"_Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it._"
+
+– _Alan Perlis_
+
+
+[svm-medium]: https://medium.com/spacemesh/svm-446b106025bd
+[relearning-to-type]: https://gryphon.dev/2019/10/04/relearning-to-type/
+[product-bootstrap]: https://www.linkedin.com/pulse/big-benefits-when-your-product-bootstrapped-oren-eini/
+[kubernetes-and-the-erlang-vm]: http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/
+[rust-futures]: https://www.viget.com/articles/understanding-futures-in-rust-part-1/
+[how-many-words]: https://wordcounter.io/blog/how-many-words-does-the-average-person-know/
+[gitmoji]: https://gitmoji.carloscuesta.me/
+[future-of-serverless]: https://www.youtube.com/watch?v=CMB6AlE1QuI
+[emacs-or-vim]: https://www.youtube.com/watch?v=V3QF1uAvbkU
+[ultralearning]: https://www.scotthyoung.com/blog/ultralearning/
+[tuple]: https://tuple.app/
