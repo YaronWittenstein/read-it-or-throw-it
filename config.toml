@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Read it or Throw it"
+theme = "ghostwriter"
+googleAnalytics = ""
+disqusShortname = ""
