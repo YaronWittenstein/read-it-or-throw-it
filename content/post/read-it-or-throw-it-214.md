@@ -24,13 +24,13 @@ and super fun!  please email me at: yaron.wittenstein@gmail.com
 
 3. [Big Benefits when Your Product is Bootstrapped][product-bootstrap]
 <br/>
-Oren Eini, one the greatest developers on earth tells his remarkable story of bootstrapping his company creating RavenDB.
+Oren Eini, one of the greatest developers on earth tells his remarkable story of bootstrapping his company creating RavenDB.
 A must-read article for entrepreneurs!
 
 4. [Kubernetes and the Erlang VM: orchestration on the large and the small][kubernetes-and-the-erlang-vm]
 <br/>
 A great article by José Valim, the creator of Elixir about the similarities between KS8 and the Erlang VM.
-While KS8 orchestrates nodes, the Erlang VM does that same in the instance level.
+While KS8 orchestrates nodes, the Erlang VM does that same at the instance level.
 José also writes about how KS8 and the Erlang VM can complement each other in cases like Service Discovery.
 
 5. [Tuple: A remote pair programming tool for discerning developers][tuple]
@@ -43,7 +43,7 @@ The tool is only for Mac users.
 
 6. [How Many Words Does the Average Person Know?][how-many-words]
 <br/>
-In the last couple of moths I've worked almost daily on my English vocabulary.
+In the last couple of months I've worked almost daily on my English vocabulary.
 <br/>
 English is a gigantic language and I was asking myself how many words a fluent English speaker really knows.
 If you're curious too, then read the article
@@ -64,7 +64,7 @@ to this day and the next generation of Serverless executing WebAssembly programs
 10. [Book Recommendation: Ultralearning][ultralearning]
 <br/>
 A great book about applying innovative learning techniques by Scott H Young.
-This book will give you undoubtedly some food for thought. I know it made me think and reflect about the way I learn things.
+This book will give you undoubtedly some food for thought. I know it made me think and reflect on the way I learn things.
 Highly recommended book!
 
 <br/>
