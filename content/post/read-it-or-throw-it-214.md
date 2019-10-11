@@ -41,7 +41,7 @@ The video on the site looks really cool.
 <br/>
 The tool is only for Mac users.
 
-6. [How Many Words Does the Average Person Know?][how-many-words]:
+6. [How Many Words Does the Average Person Know?][how-many-words]
 <br/>
 In the last couple of moths I've worked almost daily on my English vocabulary.
 <br/>
@@ -54,7 +54,7 @@ A cheat sheet to GitHub emojis
 
 8. [emacs or vim][emacs-or-vim]
 <br/>
-That's funny. I will have my take about the endless war of emacs vs vim on a future post.
+That's funny. I will have my take about the endless war of emacs vs vim on a future post under [my blog].
 
 9. [Recommendation Talk: Rust, WebAssembly, and the future of Serverless][future-of-serverless]
 <br/>
@@ -63,8 +63,8 @@ to this day and the next generation of Serverless executing WebAssembly programs
 
 10. [Book Recommendation: Ultralearning][ultralearning]
 <br/>
-A great book about learning innovative techniques by Scott H Young.
-This book will give you some food for thought. I knew it made me think and reflect about the way I learn things.
+A great book about applying innovative learning techniques by Scott H Young.
+This book will give you undoubtedly some food for thought. I know it made me think and reflect about the way I learn things.
 Highly recommended book!
 
 <br/>
@@ -82,5 +82,6 @@ Highly recommended book!
 [gitmoji]: https://gitmoji.carloscuesta.me/
 [future-of-serverless]: https://www.youtube.com/watch?v=CMB6AlE1QuI
 [emacs-or-vim]: https://www.youtube.com/watch?v=V3QF1uAvbkU
+[my-blog]: https://gryphon.dev
 [ultralearning]: https://www.scotthyoung.com/blog/ultralearning/
 [tuple]: https://tuple.app/
