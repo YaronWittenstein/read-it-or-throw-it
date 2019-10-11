@@ -54,7 +54,7 @@ A cheat sheet to GitHub emojis
 
 8. [emacs or vim][emacs-or-vim]
 <br/>
-That's funny. I will have my take about the endless war of emacs vs vim on a future post under [my blog].
+That's funny. I will have my take about the endless war of emacs vs vim on a future post under [my-blog][my-blog].
 
 9. [Recommendation Talk: Rust, WebAssembly, and the future of Serverless][future-of-serverless]
 <br/>
