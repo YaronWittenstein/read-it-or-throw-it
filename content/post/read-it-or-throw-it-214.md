@@ -46,11 +46,11 @@ The tool is only for Mac users.
 In the last couple of months I've worked almost daily on my English vocabulary.
 <br/>
 English is a gigantic language and I was asking myself how many words a fluent English speaker really knows.
-If you're curious too, then read the article
+If you're curious too, then read the article.
 
 7. [gitmoji][gitmoji]
 <br/>
-A cheat sheet to GitHub emojis
+A cheat sheet to GitHub emojis.
 
 8. [emacs or vim][emacs-or-vim]
 <br/>
